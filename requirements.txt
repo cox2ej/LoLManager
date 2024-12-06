@@ -1,0 +1,7 @@
+# Core dependencies
+PyQt6>=6.4.0  # GUI Framework
+
+# Development dependencies
+pytest>=7.3.1
+black>=22.3.0
+flake8>=6.0.0

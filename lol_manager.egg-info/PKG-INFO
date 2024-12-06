@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: lol_manager
+Version: 0.1
+Requires-Dist: PyQt6
